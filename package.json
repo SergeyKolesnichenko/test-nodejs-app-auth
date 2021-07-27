@@ -1,0 +1,19 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.0",
+    "net-ping": "^1.2.3",
+    "mongoose": "^5.13.3",
+    "express-validator": "^6.12.1",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^10.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5"
+  }
+}
